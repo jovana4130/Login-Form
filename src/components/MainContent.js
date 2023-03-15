@@ -4,7 +4,7 @@ import './MainContent.css';
 
 
 return (
-    <div className='container'>
+    <div className='main-container'>
         <form>
             <h1>LOGIN</h1>
             <input></input>
